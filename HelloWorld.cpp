@@ -6,7 +6,7 @@ int main(){ // start
 
 	// cout<<"Hello World";
 	// cout<<'\n'; '\n' == endl
-	// cout<<"Raman Kumar;
+	// cout<<"Raman Kumar,;
 	// cout<<'\n';
 	return 0; // exit or end
 }
